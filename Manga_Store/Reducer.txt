@@ -1,0 +1,2 @@
+Un reducer (ou réducteur en français) est une fonction qui gère les changements d'état dans une application Redux. Les reducers prennent l'état actuel et une action comme arguments et retournent un nouvel état. Les reducers sont des fonctions pures, ce qui signifie qu'ils produisent toujours le même résultat donné les mêmes entrées et ne causent pas de modifications ou d'effets secondaires.
+
